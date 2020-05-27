@@ -1,2 +1,0 @@
-# Singularity-Pool
- Mining Pool
